@@ -2,3 +2,5 @@ RFIDtagReader is used for reading data from a specific block of data inside of t
 
 You need to install the right libraries for the code to function, downloading these libraries works the same as done with previous use of the arduino.
 (For these specific code the Adafruit PN532 RFID/NFC Shield was used)
+
+- Created by Marco de Veld
